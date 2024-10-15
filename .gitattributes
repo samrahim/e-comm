@@ -1,0 +1,2 @@
+*.cpp linguiste-détectable=false
+*.dart linguiste-détectable=true
